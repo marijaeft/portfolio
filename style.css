@@ -1,0 +1,116 @@
+html
+{
+   background-image: url('zelena2.svg')
+}
+h1{
+    font-size: 55px;
+    text-align: center;
+    display: inline-block;
+    left: 310px;
+    position: relative;
+    color: rgb(39, 70, 39);
+    margin-bottom: 15px;
+    
+}
+.cel
+{
+    width: 100%;
+}
+
+.par{
+    background-image: url('sharena.jpg');
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    color:rgb(39, 70, 39);
+
+}
+.prv
+{
+    display: inline-block;
+  background-color: rgb(39, 70, 39);
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    border: 2px dashed black;
+    border-radius: 250%;
+    text-align: center;
+    margin: 65px;
+    margin-bottom: 0px;
+    padding: 15px;
+    position: relative;
+    top:-60px;
+}
+img{
+    width: 180px;
+    height: 180px;
+}
+.pictures{
+    position: relative;
+    left:70px;
+    bottom: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.prv:hover{
+    left: 15px;
+}
+.parag{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color:rgb(39, 70, 39)
+
+}
+.sliki
+{
+    position: relative;
+    left:34%;
+}
+.naslov
+{
+    background-image: url('sharena.jpg');
+}
+ul{
+    display: inline;
+    position: relative;
+    left:-15px;
+    top:-30px;
+}
+footer
+{
+    background-color: rgb(39, 70, 39);
+    display: inline-block;
+    border: 2px dashed rgb(221, 224, 221);
+    border-radius: 50%;
+    position: relative;
+    top: 60px;
+    left:900px;
+}
+nav{
+    background-color: rgb(39, 70, 39);
+    display: inline-block;
+    width: 100%;
+    height: 37px;
+    
+}
+nav li{
+    display: inline;
+    margin: 30px;
+    padding: 3px;
+    width: 18%;
+    float: left;
+    position: relative;
+    text-align: center;
+    font-size: 19px;
+    margin-left: 41px;
+
+   
+}
+nav li:hover{
+    left: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
